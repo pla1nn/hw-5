@@ -18,11 +18,13 @@
     "url": "https://github.com/pla1nn/hw-9/issues"
   },
   "dependencies": {
+    "chart.js": "^4.4.3",
     "modern-normalize": "^1.1.0"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
-    "parcel": "^2.6.0",
+    "@pnotify/core": "^5.2.0",
+    "parcel": "^2.12.0",
     "parcel-reporter-clean-dist": "^1.0.4",
     "posthtml-include": "^1.7.4"
   },
